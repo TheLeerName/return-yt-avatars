@@ -1,2 +1,11 @@
-# return-yt-avatars
-just a opera gx extension which returns back avatars on youtube for Russia (cuz yt3.ggpht.com is banned)
+# Return YT Avatars
+Расширение для Opera GX которое возвращает обратно аватарки с ютуба (домен yt3.ggpht.com заблокирован лол)
+
+# Установка:
+1. Скачай [это](https://github.com/TheLeerName/return-yt-avatars/archive/refs/heads/main.zip)
+2. Распакуй куда-нибудь
+3. Открой `Расширения` в меню оперы
+4. Включи `Режим разработчика` в верхнем правом углу
+5. Нажми `Загрузить распакованное расширение`
+6. Выбери ту папку, в которую ты распаковал штуки
+7. Готово, теперь у тебя должны грузиться аватарки, если нет напиши в Issues или мне в дс хз
