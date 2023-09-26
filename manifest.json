@@ -1,0 +1,17 @@
+{
+	"manifest_version": 3,
+
+	"name": "Return YT Avatars",
+	"description": "Returns YouTube avatars for Russia",
+	"version": "1.0",
+	"content_scripts": [
+		{
+			"js": [
+				"content.js"
+			],
+			"matches": [
+				"*://*.youtube.com/*"
+			]
+		}
+   ]
+}
